@@ -1,3 +1,3 @@
 # AI Detection with Yolo Model
 
-![alt text]('./ai_cars.png')
+![alt text](/ai_cars.png)
